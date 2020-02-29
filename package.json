@@ -1,0 +1,29 @@
+{
+  "name": "mockapi",
+  "version": "1.0.0",
+  "description": "Mock api with node express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusgm/mockapi.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "node",
+    "json"
+  ],
+  "author": "Jesús Gándara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesusgm/mockapi/issues"
+  },
+  "homepage": "https://github.com/jesusgm/mockapi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
