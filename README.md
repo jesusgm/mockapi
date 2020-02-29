@@ -6,7 +6,7 @@ Repositorio para montar un servidor de api json local raáidamente a partir de f
 
 - Clonar o descargar este proyecto
 - Instalar dependencias con `npm install`
-- Arrancar el proyecto con `npm start`
+- Arrancar el proyecto con `npm start` y acceder a [http://localhost:3000](http://localhost:3000)
 
 ## Configuración
 
