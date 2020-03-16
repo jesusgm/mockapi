@@ -1,0 +1,58 @@
+{
+    "status": "success",
+    "data": [{
+        "id": "1",
+        "name": "Loca FM - House",
+        "url": "http:\/\/5.39.66.128:8005\/live",
+        "active": "1",
+        "orden": "0"
+    }, {
+        "id": "34",
+        "name": "La isla FM",
+        "url": "http:\/\/streaming.laisla.fm:7000\/128k-mp3",
+        "active": "1",
+        "orden": "1"
+    }, {
+        "id": "5",
+        "name": "Flaix FM",
+        "url": "http:\/\/radiostream.flaixfm.cat:8000\/;",
+        "active": "1",
+        "orden": "2"
+    }, {
+        "id": "31",
+        "name": "M\u00e1xima FM",
+        "url": "http:\/\/20853.live.streamtheworld.com\/MAXIMAFM_SC",
+        "active": "1",
+        "orden": "3"
+    }, {
+        "id": "8",
+        "name": "Loca FM - Tech House",
+        "url": "http:\/\/5.39.66.128:8008\/live",
+        "active": "1",
+        "orden": "4"
+    }, {
+        "id": "2",
+        "name": "Loca FM - Trance",
+        "url": "http:\/\/5.39.66.128:8009\/live",
+        "active": "1",
+        "orden": "5"
+    }, {
+        "id": "3",
+        "name": "Loca FM - Live",
+        "url": "http:\/\/audio-online.net:2300\/live",
+        "active": "1",
+        "orden": "6"
+    }, {
+        "id": "7",
+        "name": "Radio Dance",
+        "url": "http:\/\/streaming.radionomy.com\/1-Radio-Dance",
+        "active": "1",
+        "orden": "7"
+    }, {
+        "id": "35",
+        "name": "Flaixbac",
+        "url": "https:\/\/flaixbac.streaming-pro.com:8005\/flaixbac.mp3",
+        "active": "1",
+        "orden": "20"
+    }]
+}
