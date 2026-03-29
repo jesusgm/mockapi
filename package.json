@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jesusgm/mockapi#readme",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.22.1",
     "nodemon": "^2.0.2"
   }
 }
